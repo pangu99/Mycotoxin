@@ -1,0 +1,184 @@
+[
+  {
+    "index": 374,
+    "property_id": "1dac126337ca131e95293ebe4ae60c27",
+    "title": "identification of genotoxic agents in hek293t cells via luciferase-tagged elg1 assay",
+    "source": "pubchem",
+    "matched_keywords": [
+      "genotoxic"
+    ]
+  },
+  {
+    "index": 1198,
+    "property_id": "52a4eff97c52a686a0b218807d8ac7f3",
+    "title": "detection of p53 pathway activation in tox21 assay for potential genotoxic agents",
+    "source": "toxcast",
+    "matched_keywords": [
+      "genotoxic"
+    ]
+  },
+  {
+    "index": 1237,
+    "property_id": "5c619e70a1d17d07abb016c4bc6447e5",
+    "title": "assessment of chemical toxicity via dt40 genotoxicity assay",
+    "source": "toxcast",
+    "matched_keywords": [
+      "genotoxic"
+    ]
+  },
+  {
+    "index": 1253,
+    "property_id": "b3f4dafb89a57992b884f9a0052d9ab6",
+    "title": "assay for identifying genotoxic small molecules in hek cells using atad5-luciferase system",
+    "source": "pubchem",
+    "matched_keywords": [
+      "genotoxic"
+    ]
+  },
+  {
+    "index": 1269,
+    "property_id": "4d4a470cd5e7c4a2d01e7b998ebe99f6",
+    "title": "assessment of genotoxicity-inducing small molecules in hek cells via atad5-luc reporter",
+    "source": "pubchem",
+    "matched_keywords": [
+      "genotoxic"
+    ]
+  },
+  {
+    "index": 1273,
+    "property_id": "a0d13ad27cc98eb2337801e96bb5aa09",
+    "title": "high-throughput screen for genotoxicity-inducing small molecules in hek cells with atad5-linked luciferase",
+    "source": "pubchem",
+    "matched_keywords": [
+      "genotoxic"
+    ]
+  },
+  {
+    "index": 1500,
+    "property_id": "4bd5819af1147c4404b22f14c56458ad",
+    "title": "genotoxicity profiling in rad54/ku70 deficient dt40 cells using qhts",
+    "source": "pubchem",
+    "matched_keywords": [
+      "genotoxic"
+    ]
+  },
+  {
+    "index": 1523,
+    "property_id": "9a47ea33197549fca4d46a1289a5c4b0",
+    "title": "genotoxicity profiling in isogenic dt40 cell lines using qhts",
+    "source": "pubchem",
+    "matched_keywords": [
+      "genotoxic"
+    ]
+  },
+  {
+    "index": 1545,
+    "property_id": "bd499e3264fb0f20a0d1a48719c8540b",
+    "title": "genotoxic compounds cytotoxicity in rev3 dt40 variant - qhts analysis",
+    "source": "pubchem",
+    "matched_keywords": [
+      "genotoxic"
+    ]
+  },
+  {
+    "index": 1626,
+    "property_id": "69afa4f1cf0a0088a674b56984203ec1",
+    "title": "confirmatory qhts for genotoxicity in hek293t cells with elg1-luciferase",
+    "source": "chembl",
+    "matched_keywords": [
+      "genotoxic"
+    ]
+  },
+  {
+    "index": 1799,
+    "property_id": "bc227722c5c4d509967d051cee951bb9",
+    "title": "genotoxicity screening in ccris: mutagenicity assessment of small molecules",
+    "source": "pubchem",
+    "matched_keywords": [
+      "genotoxic",
+      "mutagenic"
+    ]
+  },
+  {
+    "index": 2508,
+    "property_id": "df771fbb5b2a85bad6bb97d4cda586c6",
+    "title": "assessment of mutagenic potential in small molecules via gene-tox assay",
+    "source": "pubchem",
+    "matched_keywords": [
+      "mutagenic"
+    ]
+  },
+  {
+    "index": 2512,
+    "property_id": "677819f24a2ecedb947ea09e6b699c6e",
+    "title": "genotoxicity and cytotoxicity profiling in isogenic dt40 cell lines via qhts bioassay",
+    "source": "pubchem",
+    "matched_keywords": [
+      "genotoxic"
+    ]
+  },
+  {
+    "index": 2863,
+    "property_id": "631913ab9f3334ffe372ff85a5d9316c",
+    "title": "in vitro bacterial mutagenicity assessment",
+    "source": "ice",
+    "matched_keywords": [
+      "mutagenic"
+    ]
+  },
+  {
+    "index": 2881,
+    "property_id": "b6b6360604c7999e911a240e1c1da1dd",
+    "title": "carcinogenic potency assessment from single cell analysis",
+    "source": "pubchem",
+    "matched_keywords": [
+      "carcinogenic"
+    ]
+  },
+  {
+    "index": 3128,
+    "property_id": "25d83adb1e310277e27e13c04ac233f1",
+    "title": "comprehensive analysis of carcinogenic potential in small molecules",
+    "source": "pubchem",
+    "matched_keywords": [
+      "carcinogenic"
+    ]
+  },
+  {
+    "index": 3191,
+    "property_id": "b09ccc06aac1756e582e798a6e925fb4",
+    "title": "rat carcinogenicity potency assessment from dsstox database",
+    "source": "pubchem",
+    "matched_keywords": [
+      "carcinogenic"
+    ]
+  },
+  {
+    "index": 3291,
+    "property_id": "3cd441bf72525c3f9e32159c28021afa",
+    "title": "carcinogenicity evaluation of small molecules via dsstox multi-cell analysis",
+    "source": "pubchem",
+    "matched_keywords": [
+      "carcinogenic"
+    ]
+  },
+  {
+    "index": 3574,
+    "property_id": "11faeb40cec0c0f1adfdf80398fcdfaa",
+    "title": "mouse carcinogenic potency assessment from dsstox cpdbas data",
+    "source": "pubchem",
+    "matched_keywords": [
+      "carcinogenic"
+    ]
+  },
+  {
+    "index": 3830,
+    "property_id": "df4c42b8626950152a32c7b99e8c3bdc",
+    "title": "salmonella mutagenicity assessment from cpdb carcinogenic database",
+    "source": "pubchem",
+    "matched_keywords": [
+      "carcinogenic",
+      "mutagenic"
+    ]
+  }
+]
